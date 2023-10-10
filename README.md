@@ -10,3 +10,4 @@ If you need support interpretting the code or creating the simulation, you can r
 ## Roadmap
 This is the first of many simulation projects. My next step is to implement commands in my code that change the colors of the balls when they hit a boundary. 
 ## License Information
+License information is included in the repository under LICENSE.
